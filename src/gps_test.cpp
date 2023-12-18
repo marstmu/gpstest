@@ -10,7 +10,7 @@
 void setup() {
   // make this baud rate fast enough to we aren't waiting on it
   //Serial.begin(9600); // computer
-
+ 
     // 9600 baud is the default rate for the Ultimate GPS
   Serial5.begin(9600); // antenna
   Serial.begin(9600); // monitor
