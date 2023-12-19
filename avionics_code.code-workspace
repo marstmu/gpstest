@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../avionics_code"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../imu_test"
+		}
+	],
+	"settings": {}
+}
