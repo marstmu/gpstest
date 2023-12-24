@@ -8,6 +8,10 @@
 		},
 		{
 			"path": "../imu_test"
+		},
+		{
+			"name": "tests",
+			"path": "../tests"
 		}
 	],
 	"settings": {}
