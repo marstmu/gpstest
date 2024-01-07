@@ -12,6 +12,10 @@
 		{
 			"name": "tests",
 			"path": "../tests"
+		},
+		{
+			"name": "antennachannel",
+			"path": "../antennachannel"
 		}
 	],
 	"settings": {}
