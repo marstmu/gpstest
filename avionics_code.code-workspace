@@ -10,12 +10,12 @@
 			"path": "../imu_test"
 		},
 		{
-			"name": "tests",
-			"path": "../tests"
-		},
-		{
 			"name": "antennachannel",
 			"path": "../antennachannel"
+		},
+		{
+			"name": "test_bmp280",
+			"path": "../test_bmp280"
 		}
 	],
 	"settings": {}
