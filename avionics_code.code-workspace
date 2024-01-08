@@ -1,21 +1,24 @@
 {
 	"folders": [
 		{
+			"name": "avionics_code",
 			"path": "../avionics_code"
 		},
 		{
+			"name": "gps_test",
 			"path": "."
 		},
 		{
+			"name": "imu_test",
 			"path": "../imu_test"
-		},
-		{
-			"name": "antennachannel",
-			"path": "../antennachannel"
 		},
 		{
 			"name": "test_bmp280",
 			"path": "../test_bmp280"
+		},
+		{
+			"name": "antennachannel",
+			"path": "../antennachannel"
 		}
 	],
 	"settings": {}
