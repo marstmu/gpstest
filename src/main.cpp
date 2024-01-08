@@ -45,11 +45,6 @@ void setup() {
   //sets GPS to 0.5HZ 
   //Serial8.println("$PMTK220,5000*1B");
 
-  //ABOVE IS FOR GPS
-  //BELOW IS FOR IMU
-
-  
-
 }
 
 
