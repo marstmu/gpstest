@@ -12,7 +12,7 @@ void setup() {
   //Serial.begin(9600); // computer
  
     // 9600 baud is the default rate for the Ultimate GPS
-  Serial5.begin(9600); // antenna
+  Serial2.begin(9600); // antenna
   Serial.begin(9600); // monitor
   Serial8.begin(4800); // GPS
 
@@ -53,7 +53,7 @@ void loop() {
     char c = Serial8.read();
    // Serial.write(c); // Print received data from GPS to Serial Monitor
     Serial.print(c);
-    Serial5.print(c);
+    Serial2.print(c);
   }
   delay(10);
 }
